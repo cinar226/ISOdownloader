@@ -4,3 +4,5 @@ Do you tired of installing all ISOs from the websites? A .sh file that downloads
 You can ask for adding distros + normal ISOs (windows isos) at Pull requests.
 
 This app is open source. You can modify it of course.
+
+Windows-compatible .sh file = v1.00 (full release)
